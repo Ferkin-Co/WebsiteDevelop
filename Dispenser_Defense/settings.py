@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'Dispenser_Defense.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': r"E:\SQLiteDB\StevenWebsiteDev\db.sqlite3",
+        'NAME': r"D:\My Drive\db.sqlite3",
     }
 }
 
